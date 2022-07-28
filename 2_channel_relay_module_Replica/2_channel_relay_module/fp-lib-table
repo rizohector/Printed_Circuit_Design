@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "RELAY_SONGLE_THT")(type "KiCad")(uri "${KIPRJMOD}/RELAY_SONGLE_THT.pretty")(options "")(descr ""))
+)

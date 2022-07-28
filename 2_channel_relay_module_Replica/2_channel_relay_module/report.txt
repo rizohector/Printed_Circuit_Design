@@ -1,0 +1,8 @@
+Anotado Fiducial como F1.
+Anotado Fiducial como F2.
+Anotado Fiducial como F3.
+Anotado MountingHole como MH1.
+Anotado MountingHole como MH2.
+Anotado MountingHole como MH3.
+Anotado MountingHole como MH4.
+Anotación completada.
