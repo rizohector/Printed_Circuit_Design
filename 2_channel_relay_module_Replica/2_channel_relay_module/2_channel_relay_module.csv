@@ -1,0 +1,13 @@
+"Id";"Identificador";"Paquete";"Cantidad";"Identificación";"Suministrador y ref";
+1;"J1,J2";"TerminalBlock_bornier-3_P5.08mm";2;"Bornera";;;
+2;"IN1,IN2";"LED_1206_3216Metric";2;"LED ROJO SMD";;;
+3;"U2,U1";"DIP-4_W7.62mm";2;"PC817";;;
+4;"K1,K2";"Relay_SPDT_SONGLE_SRD_Series_Form_C";2;"SONGLE_SRD_Form_C";;;
+5;"R4,R2";"R_1206_3216Metric";2;"510";;;
+6;"D2,D1";"LED_1206_3216Metric";2;"1N4148";;;
+7;"Q2,Q1";"SOT-23";2;"S8050";;;
+8;"MH2,MH4,MH1,MH3";"MountingHole_3.2mm_M3_ISO14580";4;"MountingHole";;;
+9;"R1,R3";"R_1206_3216Metric";2;"1 K";;;
+10;"F2,F1,F3";"Fiducial_0.5mm_Mask1.5mm";3;"Fiducial";;;
+11;"J3";"PinHeader_1x03_P2.54mm_Vertical";1;"Tiras de pines macho";;;
+12;"J4";"PinHeader_1x04_P2.54mm_Vertical";1;"Tira de pines macho";;;
